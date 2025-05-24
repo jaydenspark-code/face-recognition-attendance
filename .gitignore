@@ -1,0 +1,14 @@
+# Ignore all images in ImageAttendance except .gitkeep
+ImageAttendance/*
+!ImageAttendance/.gitkeep
+
+# Ignore sensitive data files
+faces.pkl
+users.pkl
+lecturers.pkl
+attendance.xlsx
+confirmation_logs.xlsx
+system_activity.log
+venv310/
+venv/
+.env/
