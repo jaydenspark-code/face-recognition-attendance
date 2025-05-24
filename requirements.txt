@@ -3,4 +3,5 @@ opencv-python
 deepface
 openpyxl
 numpy
-dlib
+pandas
+pillow
