@@ -1,5 +1,6 @@
 streamlit
 opencv-python
+tensorflow
 deepface
 openpyxl
 numpy
